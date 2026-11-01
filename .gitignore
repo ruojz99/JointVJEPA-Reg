@@ -1,0 +1,8 @@
+results/
+*.pt
+*.pth
+*.npz
+*.nii.gz
+__pycache__/
+*.pyc
+logs/
